@@ -1,0 +1,34 @@
+* Philosophy
+Many of these points are copy-pasted from /Dungeon Crawl: Stone Soup/'s [[http://crawl.develz.org/other/manual.html#n-philosophy-pas-de-faq][philosophy]] statement.
+** UI
+*** Minimal
+The UI should have as few elements as possible. No animation or effect should exist merely because it is pretty.
+*** Clear
+Things that are different should appear obviously different. Static and unimportant elements should fade into the background, whereas important elements should pop. Clarity is prized over realism.
+*** Beauty
+Layout, color scheme, glyphs, and other elements should be pleasing to the eye. The game might look archaic, but there's no reason for it to look garish..
+*** Comprehensive
+A less accurate word for this would be "intuitive". A first-time player should be able play without reading a keyboard cheatsheet first. Available commands should be obvious and well labeled.
+*** Complete
+All information the player might want should be immediately available, right where the action is. Digging through menus should be minimized.
+*** Flavor
+Flavor text/graphics /are/ important to the atmosphere. They should be present, but it should also be easy to ignore or disable them.
+*** Automation
+Boring, repetitive tasks should be removed or, failing that, automated.
+** Gameplay
+*** Interesting play
+Tedious gameplay should not be rewarded.
+*** True choices
+When presented a choice, all options should be viable. There should be no obvious choices, no clearly best or worst option.. An anti-example would be a level 6 sword that is obviously superior to a level 5 sword.
+*** Skill should make a real difference
+Ideally beginners will lose every time (and early), while experts will win almost every time. Becoming an expert is expected to take a long time.
+*** No spoilers
+Relevant information should be provided in-game. Outside information (such as damage calculations) shouldn't be required, and indeed shouldn't even /help/.
+*** Replayability
+Every game should be uniquely interesting. Memorization should confer no benefits. Many different play styles should be viable.
+*** Depth vs complexity
+The preference is for a smaller number of moving parts interacting in complex ways. That is, many intersecting orthogonal concerns. Duplicating concerns under different names adds nothing.
+*** No grinding
+All battles (and play in general) should be meaningful, with no combat for combat's sake or to increase stats. It should not be possible to reach "invincible mode" or to play infinitely.
+*** You are not special
+Your character should follow all the same rules of the universe as any of the monsters, and /vise versa/.
