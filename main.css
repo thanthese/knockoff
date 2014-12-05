@@ -8,11 +8,16 @@
     float: left;
     height: 1.25em;
     line-height: 1.25em;
-    text-align: center;
     width: 1.25em;
+    text-align: center;
+ }
+
+.redBackground {
+   background-color: red;
+}
+
+.blueBackground {
+   background-color: blue;
 }
 
 .row { clear: both; }
-
-#cell-1-4 {
-}
